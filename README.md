@@ -6,7 +6,7 @@ A flutter package to help you scale your design on bigger or smaller screens to 
 
 iPhone 8, iPhone X Max, iPad Pro 12.9
 
-<img src="images/iphone8plus.png" width="200"/> <img src="images/iphonexmax.png" width="200"/> <img src="images/ipadpro12_9.png" width="200"/>
+<img src="images/iphone8plus.png" width="200"/> <img src="images/iphonexmax.png" width="200"/> <img src="images/ipadpro12_9.png" width="400"/>
 
 ## Usage  
 
