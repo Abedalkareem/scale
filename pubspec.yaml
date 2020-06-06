@@ -1,9 +1,7 @@
 name: scale
 description: A flutter package to help you scale your design on bigger or smaller screens to achive the same design look.
-girepository:
+repository: https://github.com/Abedalkareem/scale.git
 version: 0.0.1
-author:
-homepage:
 
 environment:
   sdk: ">=2.7.0 <3.0.0"

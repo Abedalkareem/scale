@@ -1,14 +1,63 @@
-# scale
+<img src="images/logo.png" width="200"/>
 
 A flutter package to help you scale your design on bigger or smaller screens to achieve the same design look.
 
-## Getting Started
+## Screenshot  
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+iPhone 8, iPhone X Max, iPad Pro 12.9
+<img src="images/iphone8plus.png" width="200"/> <img src="images/iphonexmax.png" width="200"/> <img src="images/ipadpro12_9.png" width="200"/>
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## Usage  
+
+First of all, in your base widget setup `Scale`.
+So, if you have a design with 1280 * 720. You will pass first the context then the design size.
+
+``` dart
+Scale.setup(context, Size(1280, 720));
+```
+
+### Scale relative to height
+Now to scale a number relative to screen height
+
+``` dart
+final height = Scale.scaleVertically(50);
+```
+
+Or, you can use the extension
+``` dart
+final height = 50.sv;
+```
+
+### Scale relative to width
+
+To scale a number relative to screen height
+
+``` dart
+final height = Scale.scaleHorizontally(50);
+```
+
+Or, you can use the extension
+``` dart
+final height = 50.sh;
+```
+
+### Scale font
+
+The font will be scaled relative to screen width, to do that:
+
+``` dart
+final fontSize = Scale.scaleFont(17);
+```
+
+Or, you can use the extension
+``` dart
+final fontSize = 17.sf;
+```
+
+## Installing  
+
+Simply add the following line to your pubspec.yaml file:  
+``` yaml
+dependencies:
+  scale: any       # <-- Add this line
+```
