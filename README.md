@@ -8,6 +8,8 @@ iPhone 8, iPhone X Max, iPad Pro 12.9
 
 <img src="images/iphone8plus.png" width="200"/> <img src="images/iphonexmax.png" width="200"/> <img src="images/ipadpro12_9.png" width="400"/>
 
+*This screenshots from my app, it's available on [AppStore](https://apps.apple.com/gm/app/id1514479049) and [PlayStore](https://play.google.com/store/apps/details?id=com.jostudio.logz)*
+
 ## Usage  
 
 First of all, in your base widget setup `Scale`.
