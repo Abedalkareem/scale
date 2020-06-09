@@ -33,15 +33,15 @@ final height = 50.sv;
 
 ### Scale relative to width
 
-To scale a number relative to screen height
+To scale a number relative to screen width
 
 ``` dart
-final height = Scale.scaleHorizontally(50);
+final width = Scale.scaleHorizontally(50);
 ```
 
 Or, you can use the extension
 ``` dart
-final height = 50.sh;
+final width = 50.sh;
 ```
 
 ### Scale font
