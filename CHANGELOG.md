@@ -17,3 +17,7 @@ Support null safety.
 ## [0.0.5] - 04/11/2023.
 
 Fix warnings and add docs.
+
+## [0.0.6] - 04/11/2023.
+
+Fix warnings update readme.
