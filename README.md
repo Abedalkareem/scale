@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/Abedalkareem/scale/master/images/logo.png" width="200"/>
 
-A flutter package to help you scale your design on all screens sizes to achieve the same design look.
+A flutter package to help you scale your design on all screen sizes to achieve the same design look.
 
 ## Screenshot  
 
@@ -24,7 +24,7 @@ macOS
 ## Usage  
 
 First of all, in your base widget setup `Scale`.
-So, if you have a design with 1280 * 720. You will pass first the context then the design size.
+So, if you have a design with 1280 * 720. You will pass first the context and then the design size.
 
 ``` dart
 Scale.setup(context, Size(1280, 720));
@@ -57,7 +57,7 @@ final width = 50.sh;
 
 ### Scale font
 
-The font will be scaled relative to screen width, to do that:
+The font will be scaled relative to the screen width, to do that:
 
 ``` dart
 final fontSize = Scale.scaleFont(17);
@@ -75,3 +75,16 @@ Simply add `scale` as a dependency in your `pubspec.yaml` by running the followi
 ``` console
 $ flutter pub add scale
 ```
+
+## Support me 🚀  
+
+You can support this project by:  
+
+1- Checking my [apps](https://apps.apple.com/us/developer/id928910207).  
+2- Star the repo.  
+3- Share the repo with your friends.  
+4- [Buy Me A Coffee](https://www.buymeacoffee.com/akdebuging).  
+
+## Follow me ❤️  
+
+[Facebook](https://www.facebook.com/Abedalkareem.Omreyh/) | [Twitter](https://twitter.com/akdebuging) | [Instagram](https://instagram.com/abedalkareemomreyh/) | [Youtube](https://www.youtube.com/@akdebuging)
