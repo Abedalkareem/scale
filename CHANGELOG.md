@@ -10,7 +10,10 @@ Add homepage and update read me.
 
 Update screenshots and logo.
 
-
 ## [0.0.4] - 04/11/2023.
 
 Support null safety.
+
+## [0.0.5] - 04/11/2023.
+
+Fix warnings and add docs.
