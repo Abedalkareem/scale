@@ -78,7 +78,8 @@ class Scale {
   static bool _checkIfSetupNotDone() {
     final isSetupNotDone = size == null;
     if (isSetupNotDone && kDebugMode) {
-      assert(false, 'You need to setup the screen size first. Use Scale.setup(context, Size(1280, 720))');
+      assert(false,
+          'You need to setup the screen size first. Use Scale.setup(context, Size(1280, 720))');
     }
     return isSetupNotDone;
   }
