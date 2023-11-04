@@ -14,6 +14,11 @@ iPhone 8, iPhone X Max, iPad Pro 12.9
 
 <img src="https://raw.githubusercontent.com/Abedalkareem/scale/master/images/iphone8plus.png" width="200"/> <img src="https://raw.githubusercontent.com/Abedalkareem/scale/master/images/iphonexmax.png" width="200"/> <img src="https://raw.githubusercontent.com/Abedalkareem/scale/master/images/ipadpro12_9.png" width="400"/>
 
+macOS
+
+<img src="https://raw.githubusercontent.com/Abedalkareem/scale/master/images/macos.png" width="800"/>
+
+
 *This screenshots from my app, it's available on [AppStore](https://apps.apple.com/gm/app/id1514479049) and [PlayStore](https://play.google.com/store/apps/details?id=com.jostudio.logz)*
 
 ## Usage  
